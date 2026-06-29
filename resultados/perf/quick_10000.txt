@@ -1,0 +1,19 @@
+
+ Performance counter stats for './sort quick 10000':
+
+            10,385      cpu_atom/cache-references/u                                             (12.20%)
+             5,980      cpu_core/cache-references/u                                             (87.80%)
+             5,377      cpu_atom/cache-misses/u                                                 (12.20%)
+             1,421      cpu_core/cache-misses/u                                                 (87.80%)
+              3.20 msec task-clock:u                                                          
+           743,778      cpu_atom/cycles/u                                                       (12.20%)
+         2,540,337      cpu_core/cycles/u                                                       (87.80%)
+           279,190      cpu_atom/instructions/u                                                 (12.20%)
+         3,169,355      cpu_core/instructions/u                                                 (87.80%)
+
+       0.004484463 seconds time elapsed
+
+       0.003572000 seconds user
+       0.000907000 seconds sys
+
+

@@ -1,0 +1,19 @@
+
+ Performance counter stats for './sort radix 10000':
+
+             4,778      cpu_atom/cache-references/u                                           
+     <not counted>      cpu_core/cache-references/u                                             (0.00%)
+             2,473      cpu_atom/cache-misses/u                                               
+     <not counted>      cpu_core/cache-misses/u                                                 (0.00%)
+              2.25 msec task-clock:u                                                          
+         1,849,982      cpu_atom/cycles/u                                                     
+     <not counted>      cpu_core/cycles/u                                                       (0.00%)
+         2,804,427      cpu_atom/instructions/u                                               
+     <not counted>      cpu_core/instructions/u                                                 (0.00%)
+
+       0.003290175 seconds time elapsed
+
+       0.001108000 seconds user
+       0.002178000 seconds sys
+
+

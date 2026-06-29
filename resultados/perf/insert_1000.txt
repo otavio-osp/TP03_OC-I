@@ -1,0 +1,19 @@
+
+ Performance counter stats for './sort insert 1000':
+
+             4,401      cpu_atom/cache-references/u                                           
+     <not counted>      cpu_core/cache-references/u                                             (0.00%)
+             2,098      cpu_atom/cache-misses/u                                               
+     <not counted>      cpu_core/cache-misses/u                                                 (0.00%)
+              0.93 msec task-clock:u                                                          
+           780,851      cpu_atom/cycles/u                                                     
+     <not counted>      cpu_core/cycles/u                                                       (0.00%)
+         2,208,154      cpu_atom/instructions/u                                               
+     <not counted>      cpu_core/instructions/u                                                 (0.00%)
+
+       0.001857904 seconds time elapsed
+
+       0.000890000 seconds user
+       0.000890000 seconds sys
+
+

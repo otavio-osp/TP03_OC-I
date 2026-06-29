@@ -1,0 +1,19 @@
+
+ Performance counter stats for './sort bubble 1000':
+
+             5,060      cpu_atom/cache-references/u                                           
+     <not counted>      cpu_core/cache-references/u                                             (0.00%)
+             1,489      cpu_atom/cache-misses/u                                               
+     <not counted>      cpu_core/cache-misses/u                                                 (0.00%)
+              2.35 msec task-clock:u                                                          
+         2,266,742      cpu_atom/cycles/u                                                     
+     <not counted>      cpu_core/cycles/u                                                       (0.00%)
+         5,448,191      cpu_atom/instructions/u                                               
+     <not counted>      cpu_core/instructions/u                                                 (0.00%)
+
+       0.003586096 seconds time elapsed
+
+       0.001199000 seconds user
+       0.002396000 seconds sys
+
+
